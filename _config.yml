@@ -1,7 +1,7 @@
 # Site settings
 title: LeapFrog233's blog    				  	#你博客的标题
 SEOTitle: LeapFrog233's blog | blog    	 #显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-rwd.jpg  	#显示在首页的背景图片
+header-img: /37b6dc0c4bf0e14ce3983eefcb1f5fc9.jpeg  	#显示在首页的背景图片
 email: robbinw2011@outlook.com	
 description: "You Blog"  			 #网站介绍
 keyword: "LF, LF Blog, LeapFrog233's blog" #关键词
