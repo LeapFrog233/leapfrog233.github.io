@@ -1,1 +1,17 @@
-1
+# Site settings
+title: LeapFrog233's blog    				  	#你博客的标题
+SEOTitle: LeapFrog233's blog | blog    	 #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-rwd.jpg  	#显示在首页的背景图片
+email: robbinw2011@outlook.com	
+description: "You Blog"  			 #网站介绍
+keyword: "LF, LF Blog, LeapFrog233's blog" #关键词
+url: "https://leapfrog233.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
+# Sidebar settings
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "Think different."
+sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+# SNS settings
+RSS: false
+zhihu_username:     LeapFrog233
+github_username:    LeapFrog233
